@@ -1,5 +1,7 @@
 package collection.list.array;
 
+import collection.list.vector.Board;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
