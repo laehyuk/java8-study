@@ -40,6 +40,11 @@ public class HashSetExample1 {
             System.out.println(element);
         }
 
+        System.out.println();
+        for(String element : set){
+            System.out.println(element);
+        }
+
         set.clear();
         if(set.isEmpty()){
             System.out.println();
